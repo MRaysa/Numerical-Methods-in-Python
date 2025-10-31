@@ -96,8 +96,6 @@ This repository is for educational purposes. Contributions, suggestions, and que
 
 ---
 
-Made with ❤️ for learning and sharing.
-
 For any questions or suggestions, feel free to open an issue or contact the repository owner.
 
 </p>
