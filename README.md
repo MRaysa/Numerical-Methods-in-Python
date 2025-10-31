@@ -67,14 +67,6 @@ Numerical Methods in Python is your interactive playground for learning, experim
 
 ---
 
-<p align="center">
-  <b>Made with <span style="color:red;">❤️</span> for learning and sharing.</b><br>
-  <img src="https://img.icons8.com/color/48/000000/student-male--v2.png" width="32"/> <br>
-  <b>Author:</b> <span style="font-size:1.2em; color:#0077b6; font-family:cursive;">Aysa Siddika Meem</span>
-</p>
-
----
-
 ## 🚦 Getting Started
 
 <ol>
@@ -96,10 +88,18 @@ This repository is for educational purposes. Contributions, suggestions, and que
 
 ---
 
-<p align="center">Made with <span style="color:red;">❤️</span> for learning and sharing.</p>
+<p align="center">
+  <b>Made with <span style="color:red;">❤️</span> for learning and sharing.</b><br>
+  <img src="https://img.icons8.com/color/48/000000/student-male--v2.png" width="32"/> <br>
+  <b>Author:</b> <span style="font-size:1.2em; color:#0077b6; font-family:cursive;">Aysa Siddika Meem</span>
+</p>
 
 ---
 
 Made with ❤️ for learning and sharing.
 
 For any questions or suggestions, feel free to open an issue or contact the repository owner.
+
+</p>
+
+---
